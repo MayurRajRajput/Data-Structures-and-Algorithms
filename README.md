@@ -24,7 +24,7 @@ It is structured into different folders based on categories like **Sorting, Sear
 ## 🚀 **How to Run**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/DSA-Repository.git  
+   git clone https://github.com/MayurRajRajput/Data-Structures-and-Algorithms.git  
    ```
 2. Compile and run any C program:
    ```bash
